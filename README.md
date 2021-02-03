@@ -8,7 +8,6 @@ This repository contains the course materials for week 3 of LIS 2030.
     * Boolean Expressions
     * Logical Operators
     * Conditional Statements (if, elseif, else)
-    * Exceptions
 * Functions
     * Why use functions
     * Calling functions
