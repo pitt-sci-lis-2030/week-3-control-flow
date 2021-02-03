@@ -10,8 +10,8 @@ This repository contains the course materials for week 3 of LIS 2030.
     * Conditional Statements (if, elseif, else)
     * Exceptions
 * Functions
+    * Why use functions
     * Calling functions
-    * Functions vs. Methods
     * Function Definitions
     * Parameters vs. Arguments
     * Modules
