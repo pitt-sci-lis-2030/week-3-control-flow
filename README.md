@@ -5,15 +5,15 @@ This repository contains the course materials for week 3 of LIS 2030.
 
 ## Lecture Topics
 
-* Control Flow & Conditional Execution
-    * Boolean Expressions
+* Control Flow
+    * Comparing Values
     * Logical Operators
-    * Conditional Statements (if, elseif, else)
+    * Conditional Execution
+    * Truthiness
+    * Alternative Execution
 * Functions
-    * Why use functions
-    * Calling functions
-    * Function Definitions
-    * Parameters vs. Arguments
-    * Modules
+    * Using Functions
+    * Defining 
+    * Importing Modules
 
 
